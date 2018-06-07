@@ -14,12 +14,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>ter</id>
+			<id>deployment</id>
 			<url>http://localhost:8081/nexus/content/repositories/ter/</url>
 			
 		</repository>
 		<snapshotRepository>
-			<id>tes</id>
+			<id>deployment</id>
 			<url>http://localhost:8081/nexus/content/repositories/tes/</url>
 			
 		</snapshotRepository>		
